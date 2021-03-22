@@ -1,6 +1,6 @@
 # CS2205.CH1501-ConnectedPapers
 ## QT18: SỬ DỤNG CONNECTEDPAPERS
-https://www.connectedpapers.com/about
+https://www.connectedpapers.com
 
 Connected Papers bắt đầu như một dự án phụ cuối tuần giữa những người bạn. Khi chúng tôi thấy nó đã cải thiện bao nhiêu quy trình nghiên cứu và phát triển của chính chúng tôi - và ngày càng nhận được nhiều yêu cầu hơn từ bạn bè và đồng nghiệp để sử dụng nó - chúng tôi đã cam kết phát hành nó ra công chúng.
 
